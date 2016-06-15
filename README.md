@@ -1,5 +1,8 @@
 #Exercises for Intro to Algorithms and Data Structures in JavaScript
 
+Live Streams:
+http://livestream.com/accounts/4894689/events/5453960
+
 Welcome to the exercises. This is where the magic happens! 
 
 ###Monday - June 13th
